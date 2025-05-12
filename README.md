@@ -27,6 +27,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryan-augusto-697175360/)
 
+
+![Coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0qERpD8c8WZuG-Mp5rM3et&ust=1747103101076000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLj2tt_wnI0DFQAAAAAdAAAAABAE)
     
 
 
