@@ -1,12 +1,27 @@
+### Hi there 👋
 
-## Estudante de "Ciencia da Computação" 🖥️
+## I'm Ryan.
 
-Estou desenvolvendo habilidades em :
-  - 🐍 Python
-  - ©️ C
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+- 🎓 &nbsp; Studying Computer Science at CEUB.
 
 
-## Contatos
+### 🛠 &nbsp;Tech Stack
+
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+
+##  🤝🏻 &nbsp;Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-(ryan.augusto@sempreceub.com)-red?style=flat-square&logo=gmail)](mailto:ryan.augusto@sempreceub.com)
 
