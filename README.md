@@ -50,6 +50,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryan-a-697175360/)
 
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fff21548326243.589c9291498b2.gif" width="800">
+
 <img src="https://cdn.myportfolio.com/87304753-e54a-44c6-8d0c-d2d07f36ea6e/dbb8f929-a0e3-42f4-8b6f-91b6d60387ea_rw_1920.gif?h=481a2c48fdd4f73e4b346ea3079352e6" width="800">
 
 </div>
