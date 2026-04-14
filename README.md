@@ -1,47 +1,56 @@
+<div align="center">
+  
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/44dc1f47393655.58823b49e737b.gif" width="800">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F701&background=000000&vCenter=true&multiline=true&width=435&height=100&lines=ryan%40github%3A~%24+Hey+There!+_;I'm+Ryan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+<div align="center">
+  
+# <img src="https://media.tenor.com/y1pNuAHiHFcAAAAM/dedsec.gif" width="50px" /> &nbsp; ryan-a-cmd's profile &nbsp; <img src="https://media.tenor.com/y1pNuAHiHFcAAAAM/dedsec.gif" width="50px" />
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Computer Science at CEUB.
+-- 🤔  Exploring new technologies and developing software solutions to our worlds tech problems.
+
+-- 🎓  Studying Computer Science at CEUB.
 
 
 ### 🛠 &nbsp;Tech Stack
 
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+-- ⌨️​ -- &nbsp;
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="100">
 
 
+</div>
+<br><br>   
+<div align="center">
+-- ⚙️ -- &nbsp;
+
+ <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
+
+ </div>
+<br><br> 
+<div align="center">
+-- 🔧 -- &nbsp;
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100"><img src="https://images.icon-icons.com/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" width="100">
+
+</div>
+<br><br> 
+
+<div align="center">
+  
 ##  🤝🏻 &nbsp;Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-(ryan.augusto@sempreceub.com)-red?style=flat-square&logo=gmail)](mailto:ryan.augusto@sempreceub.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryan-a-697175360/)
 
+<img src="https://cdn.myportfolio.com/87304753-e54a-44c6-8d0c-d2d07f36ea6e/dbb8f929-a0e3-42f4-8b6f-91b6d60387ea_rw_1920.gif?h=481a2c48fdd4f73e4b346ea3079352e6" width="800">
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+</div>
     
-
-
-
-<!--
-**ryan-a-cmd/ryan-a-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
