@@ -2,7 +2,7 @@
   
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/44dc1f47393655.58823b49e737b.gif" width="800">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F701&background=000000&vCenter=true&multiline=true&width=435&height=100&lines=ryan%40github%3A~%24+Hey+There!+_;I'm+Ryan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&duration=4000&pause=500&color=00F701&background=000000&vCenter=true&multiline=true&width=450&height=100&lines=ryan%40github%3A~%24+Hey+There!+_;I'm+Ryan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">
   
