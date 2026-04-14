@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Ryan.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00F701&background=000000&vCenter=true&multiline=true&width=435&height=100&lines=ryan%40github%3A~%24+Hey+There!+_;I'm+Ryan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### 💻 &nbsp;About Me 
 
@@ -25,7 +23,7 @@
 
 [![Email](https://img.shields.io/badge/Email-(ryan.augusto@sempreceub.com)-red?style=flat-square&logo=gmail)](mailto:ryan.augusto@sempreceub.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryan-augusto-697175360/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryan-a-697175360/)
 
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
