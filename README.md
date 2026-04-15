@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/44dc1f47393655.58823b49e737b.gif" width="800">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/44dc1f47393655.58823b49e737b.gif" width="900">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&duration=4000&pause=500&color=00F701&background=000000&vCenter=true&multiline=true&width=450&height=100&lines=ryan%40github%3A~%24+Hey+There!+_;I'm+Ryan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
@@ -19,6 +19,9 @@
 
 ```
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg" width="700px" />
+
   
 ### About Me 
 > I am a university student deeply invested in the intersection of software development and system security. My journey started with a fascination for how systems are built, which naturally evolved into a passion for understanding how they can be hardened.
@@ -52,11 +55,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats:
-
-![Status do GitHub de Ryan](https://github-readme-stats.vercel.app/api?username=ryan-a-cmd&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-a-cmd&layout=compact&theme=tokyonight)
-  
 ##  <img src="https://media.tenor.com/5fDTzq12PvIAAAAM/dedsec.gif" width="50px" /> Connect with Me <img src="https://media.tenor.com/5fDTzq12PvIAAAAM/dedsec.gif" width="50px" />
 
 >"We are everywhere. We are everyone. We are DedSec."
@@ -71,9 +69,9 @@
 
 > Join the resistance!
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fff21548326243.589c9291498b2.gif" width="800">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fff21548326243.589c9291498b2.gif" width="900">
 
-<img src="https://cdn.myportfolio.com/87304753-e54a-44c6-8d0c-d2d07f36ea6e/dbb8f929-a0e3-42f4-8b6f-91b6d60387ea_rw_1920.gif?h=481a2c48fdd4f73e4b346ea3079352e6" width="800">
+<img src="https://cdn.myportfolio.com/87304753-e54a-44c6-8d0c-d2d07f36ea6e/dbb8f929-a0e3-42f4-8b6f-91b6d60387ea_rw_1920.gif?h=481a2c48fdd4f73e4b346ea3079352e6" width="900">
 
 </div>
     
