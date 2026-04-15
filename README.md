@@ -4,16 +4,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&duration=4000&pause=500&color=00F701&background=000000&vCenter=true&multiline=true&width=450&height=100&lines=ryan%40github%3A~%24+Hey+There!+_;I'm+Ryan!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<div align="center">
+
   
 # <img src="https://media.tenor.com/y1pNuAHiHFcAAAAM/dedsec.gif" width="50px" /> &nbsp; ryan-a-cmd's profile &nbsp; <img src="https://media.tenor.com/y1pNuAHiHFcAAAAM/dedsec.gif" width="50px" />
 
-### 💻 &nbsp;About Me 
+</div>
 
--- 🤔  Exploring new technologies and developing software solutions to our worlds tech problems.
+## 💀 [ACCESS GRANTED] _
 
--- 🎓  Studying Computer Science at CEUB.
+```bash
+> WHOAMI: Ryan
+> ACCESS_LEVEL: University Student // Cyber-Sec Enthusiast
+> STATUS: Learning Java...
 
+```
+<div align="center">
+  
+### About Me 
+> I am a university student deeply invested in the intersection of software development and system security. My journey started with a fascination for how systems are built, which naturally evolved into a passion for understanding how they can be hardened.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,12 +51,25 @@
 <br><br> 
 
 <div align="center">
+
+## 📊 GitHub Stats:
+
+![Status do GitHub de Ryan](https://github-readme-stats.vercel.app/api?username=ryan-a-cmd&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-a-cmd&layout=compact&theme=tokyonight)
   
-##  🤝🏻 &nbsp;Connect with Me
+##  <img src="https://media.tenor.com/5fDTzq12PvIAAAAM/dedsec.gif" width="50px" /> Connect with Me <img src="https://media.tenor.com/5fDTzq12PvIAAAAM/dedsec.gif" width="50px" />
+
+>"We are everywhere. We are everyone. We are DedSec."
 
 [![Email](https://img.shields.io/badge/Email-(ryan.augusto@sempreceub.com)-red?style=flat-square&logo=gmail)](mailto:ryan.augusto@sempreceub.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ryan-a-697175360/)
+
+## 
+
+> "Information is power. But like all power, there are those who want to keep it for themselves."
+
+> Join the resistance!
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/fff21548326243.589c9291498b2.gif" width="800">
 
